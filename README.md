@@ -14,3 +14,5 @@ Today I Learned
 </br></br>
 [Array vs LinkedList](https://github.com/HelloNaks/TIL/blob/main/Data%20Structure/Array%20vs%20LinkedList.md)
 </br></br>
+[Tree](https://github.com/HelloNaks/TIL/blob/main/Data%20Structure/Tree.md)
+</br></br>
