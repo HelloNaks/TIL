@@ -12,3 +12,5 @@ Today I Learned
 ### 2022-06-20
 [Stack vs Queue](https://github.com/HelloNaks/TIL/blob/main/Data%20Structure/Stack%20vs%20Queue.md)
 </br></br>
+[Array vs LinkedList](https://github.com/HelloNaks/TIL/blob/main/Data%20Structure/Array%20vs%20LinkedList.md)
+</br></br>
