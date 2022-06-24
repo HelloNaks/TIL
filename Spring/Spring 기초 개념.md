@@ -9,7 +9,7 @@
 
 ###  IOC의 구성요소
 
-#### - DL(Dependency Lookup
+#### - DL(Dependency Lookup)
 의존성 검색이라는 뜻으로 컨테이너에서 제공하는 API를 이용해 빈을 검색하는 방법이다.
 
 #### - DI(Dependency Injection)
