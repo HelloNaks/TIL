@@ -21,3 +21,9 @@ Today I Learned
 ### 2022-06-21
 [백준 1010 다리놓기](https://github.com/HelloNaks/BaekJoon/blob/master/BJ_S5_1010_%EB%8B%A4%EB%A6%AC%EB%86%93%EA%B8%B0.java)
 </br></br>
+
+---
+### 2022-06-24
+[Spring 기초 개념](https://github.com/HelloNaks/TIL/blob/main/Spring/Spring%20%EA%B8%B0%EC%B4%88%20%EA%B0%9C%EB%85%90.md)
+</br></br>
+
