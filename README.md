@@ -36,3 +36,10 @@ Today I Learned
 ### 2022-07-18
 hackerRank
 Weather Observation Station 3 ~ Weather Observation Station 8 : 6문제 solve
+
+---
+### 2022-08-19
+- IP
+- TCP
+- UDP
+- DNS
