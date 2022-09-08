@@ -47,3 +47,11 @@ Weather Observation Station 3 ~ Weather Observation Station 8 : 6문제 solve
 ---
 ### 2022-09-01
 - Spring framework와 Spring Boot의 차이점
+
+---
+### 2022-09-08
+- API의 종류
+- JWT란?
+- JWT 토큰의 동작 방법
+- JWT 토큰 구성요소
+- JWT 토큰이 탈취된다면??
