@@ -55,3 +55,7 @@ Weather Observation Station 3 ~ Weather Observation Station 8 : 6문제 solve
 - JWT 토큰의 동작 방법
 - JWT 토큰 구성요소
 - JWT 토큰이 탈취된다면??
+
+---
+### 2022-10-07
+- [백준 14502 연구소](https://naknak.tistory.com/68)
