@@ -59,3 +59,7 @@ Weather Observation Station 3 ~ Weather Observation Station 8 : 6문제 solve
 ---
 ### 2022-10-07
 - [백준 14502 연구소](https://naknak.tistory.com/68)
+
+---
+### 2022-10-09
+- [백준 16236 아기상어](https://github.com/HelloNaks/BaekJoon/blob/master/BJ_G3_16236_%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B4(2).java)
