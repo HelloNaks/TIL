@@ -69,3 +69,9 @@ Weather Observation Station 3 ~ Weather Observation Station 8 : 6문제 solve
 - WebRTC란?
 - WebRTC의 장단점.
 - STUN/TURN 서버란?
+
+---
+### 2022-11-12
+- 동기 vs 비동기
+- 블로킹 vs 논블로킹
+- Spring mvc vs Spring Webflux
