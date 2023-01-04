@@ -83,3 +83,8 @@ Weather Observation Station 3 ~ Weather Observation Station 8 : 6문제 solve
 
 ---
 ### 2023-01-03
+- [백준 14594 동방 프로젝트 (Small)](https://github.com/HelloNaks/BaekJoon/tree/master/%EB%B0%B1%EC%A4%80/Silver/14594.%E2%80%85%EB%8F%99%EB%B0%A9%E2%80%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%E2%80%85%EF%BC%88Small%EF%BC%89)
+
+---
+### 2023-01-04
+
