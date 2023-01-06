@@ -87,4 +87,12 @@ Weather Observation Station 3 ~ Weather Observation Station 8 : 6문제 solve
 
 ---
 ### 2023-01-04
+- [백준 5430 AC](https://github.com/HelloNaks/BaekJoon/tree/master/%EB%B0%B1%EC%A4%80/Gold/5430.%E2%80%85AC)
 
+---
+### 2023-01-05
+- [백준 13699 점화식](https://github.com/HelloNaks/BaekJoon/tree/master/%EB%B0%B1%EC%A4%80/Silver/13699.%E2%80%85%EC%A0%90%ED%99%94%EC%8B%9D)
+
+---
+### 2023-01-06
+- [백준 20437 문자열게임2](https://github.com/HelloNaks/BaekJoon/tree/master/%EB%B0%B1%EC%A4%80/Gold/20437.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EA%B2%8C%EC%9E%84%E2%80%852)
