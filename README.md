@@ -100,3 +100,16 @@ Weather Observation Station 3 ~ Weather Observation Station 8 : 6문제 solve
 ---
 ### 2023-01-17
 - [RDBMS vs NOSQL](https://github.com/HelloNaks/TIL/blob/main/Database/RDBMS%20vs%20NOSQL.md)
+
+---
+### 2023-01-19
+- [OOP](https://naknak.tistory.com/69)
+
+---
+### 2023-01-25
+- [RESTful API란?](https://naknak.tistory.com/70)
+
+---
+### 2023-01-26
+- [애자일(Agile)](https://naknak.tistory.com/71)
+
