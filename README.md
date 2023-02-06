@@ -6,6 +6,10 @@ Today I Learned
 
 ---
 
+<details>
+  <summary>2022년</summary>
+<pre>
+
 ### 2022-06-19
 
 [Markdown 문법](https://github.com/HelloNaks/TIL/blob/main/Markdown/markdown%EB%AC%B8%EB%B2%95.md)
@@ -103,7 +107,14 @@ Weather Observation Station 3 ~ Weather Observation Station 8 : 6문제 solve
 - 블로킹 vs 논블로킹
 - Spring mvc vs Spring Webflux
 
+</pre>
+</details>
+
 ---
+
+<details>
+  <summary>2023년</summary>
+<pre>
 
 ### 2023-01-02
 
@@ -163,3 +174,14 @@ Weather Observation Station 3 ~ Weather Observation Station 8 : 6문제 solve
 ### 2023-02-02
 
 - [GIT 과 GITHUB](https://naknak.tistory.com/72)
+
+---
+
+### 2023-02-06
+
+- [함수형 프로그래밍(Functional Programming)](https://naknak.tistory.com/75)
+
+
+</pre>
+</details>
+
