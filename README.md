@@ -181,6 +181,11 @@ Weather Observation Station 3 ~ Weather Observation Station 8 : 6문제 solve
 
 - [함수형 프로그래밍(Functional Programming)](https://naknak.tistory.com/75)
 
+---
+
+### 2023-02-09
+
+- [MVC vs MVVM](https://naknak.tistory.com/76)
 
 </pre>
 </details>
