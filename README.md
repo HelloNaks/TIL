@@ -187,6 +187,13 @@ Weather Observation Station 3 ~ Weather Observation Station 8 : 6문제 solve
 
 - [MVC vs MVVM](https://naknak.tistory.com/76)
 
+---
+
+### 2023-02-13
+
+- [컨텍스트 스위칭(Context Switching)](https://naknak.tistory.com/77)
+
+
 </pre>
 </details>
 
