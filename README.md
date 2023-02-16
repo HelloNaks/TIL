@@ -193,6 +193,17 @@ Weather Observation Station 3 ~ Weather Observation Station 8 : 6문제 solve
 
 - [컨텍스트 스위칭(Context Switching)](https://naknak.tistory.com/77)
 
+---
+
+### 2023-02-16
+
+- [메모리의 구조](https://naknak.tistory.com/78)
+
+---
+
+### 2023-02-16
+
+- [프로세스(Process) vs 스레드(Thread)](https://naknak.tistory.com/79)
 
 </pre>
 </details>
