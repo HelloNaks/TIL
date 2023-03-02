@@ -205,6 +205,36 @@ Weather Observation Station 3 ~ Weather Observation Station 8 : 6문제 solve
 
 - [프로세스(Process) vs 스레드(Thread)](https://naknak.tistory.com/79)
 
+---
+
+### 2023-02-20
+
+- [동기 vs 비동기, 블로킹 vs 논블로킹](https://naknak.tistory.com/80)
+
+---
+
+### 2023-02-20
+
+- [Deadlock(데드락)](https://naknak.tistory.com/81)
+
+---
+
+### 2023-02-27
+
+- [OSI 7계층이란?](https://naknak.tistory.com/82)
+
+---
+
+### 2023-02-27
+
+- [TCP와 UDP](https://naknak.tistory.com/83)
+
+---
+
+### 2023-03-02
+
+- [HTTP와 HTTPS란?](https://naknak.tistory.com/84)
+
 </pre>
 </details>
 
