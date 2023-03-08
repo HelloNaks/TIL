@@ -235,6 +235,27 @@ Weather Observation Station 3 ~ Weather Observation Station 8 : 6문제 solve
 
 - [HTTP와 HTTPS란?](https://naknak.tistory.com/84)
 
+---
+
+### 2023-03-06
+
+- [HTTP 구조](https://naknak.tistory.com/85)
+
+---
+
+### 2023-03-06
+
+- [HTTP 버전](https://naknak.tistory.com/86)
+
+---
+
+### 2023-03-09
+
+- [브라우저에 URL을 입력했을 때의 과정](https://naknak.tistory.com/87)
+
+
+
+
 </pre>
 </details>
 
